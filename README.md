@@ -1,3 +1,3 @@
 # Repo
 This is my first readme. 
-Author- Sumaiya
+Author- Sumaiya (Practing git,github)
