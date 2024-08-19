@@ -1,2 +1,3 @@
 # Repo
-update readme
+This is my first readme. 
+Author- Sumaiya
